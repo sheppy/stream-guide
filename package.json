@@ -1,0 +1,29 @@
+{
+  "name": "stream-guide",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sheppy/stream-guide.git"
+  },
+  "author": "Chris Sheppard (http://www.chrissheppard.co.uk/)",
+  "license": "GPL-2.0",
+  "bugs": {
+    "url": "https://github.com/sheppy/stream-guide/issues"
+  },
+  "homepage": "https://github.com/sheppy/stream-guide",
+  "engines": {
+    "node": "6.0.0",
+    "npm": "3.8.6"
+  },
+  "devDependencies": {},
+  "dependencies": {}
+}
